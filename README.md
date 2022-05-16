@@ -5,7 +5,7 @@
   <a href="https://soundcloud.com/sykhottv" rel="noopener noreferrer" target="_blank"><img src="https://cdn.discordapp.com/attachments/788192013802930177/833500191616925696/soundcloud.png" width="110" class="center">  </a>
   <a href="https://github.com/Sykhodev" rel="noopener noreferrer" target="_blank"><img src="https://cdn.discordapp.com/attachments/788192013802930177/833500045797097572/git.png" width="110" alt="centered image"> </a>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/788192013802930177/833495847895302185/about.png" width="330">
+  <img src="https://cdn.discordapp.com/attachments/864891023208611861/975723607982501938/about.png" width="330">
   <p><a href="https://discord.gg/eRnJzeQgc6" rel="noopener noreferrer" target="_blank"><img src="https://cdn.discordapp.com/attachments/788192013802930177/833504728574853130/discbot.png" width="300"> </a><br></p>
   <br>
   <details>
